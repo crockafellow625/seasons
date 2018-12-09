@@ -3,11 +3,11 @@ import './css/SeasonDisplay.css'
 
 const seasonConfig = {
   Summer: {
-    textHelper: "Let's hit the beach",
+    textHelper: "It is summer",
     iconName: 'sun'
   },
   Winter: {
-    textHelper: 'Burr, it is chilly',
+    textHelper: 'It is winter',
     iconName: 'snowflake'
   }
 }
